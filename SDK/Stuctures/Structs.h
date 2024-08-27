@@ -1,3 +1,14 @@
+/*
+Discord -> @saneman
+Discord Inivte -> https://discord.gg/f7PW6fUrkK
+Youtube -> https://www.youtube.com/@nurmolo-fedded
+Site (AS OF 8/27/2024) -> https://moneyhack.online
+
+ Compiler yap 2024
+
+ This file was stolen struct's and mathmatics where found on github.
+ Credit will not be due because this is so pasted.
+*/
 #include "../moneyhack.hpp"
 #include <numbers>
 #include <cmath>
