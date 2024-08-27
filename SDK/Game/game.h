@@ -21,11 +21,11 @@ namespace SDK
 		uintptr_t engine2dll;
 		HWND cs2window;
 
-		inline uintptr_t UpdateClientDll()
+		inline void UpdateClientDll()
 		{
 			this->clientdll = Memory_X->GetModuleBase(L"client.dll");
 		}
-		inline uintptr_t UpdateEngine2DLL()
+		inline void UpdateEngine2DLL()
 		{
 			this->engine2dll = Memory_X->GetModuleBase(L"engine2.dll");
 		}
